@@ -1,0 +1,17 @@
+{
+  "name": "yanglegeyang-infinite-props",
+  "version": "1.0.0",
+  "description": "羊了个羊无限道具版",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "build": "echo 'No build step needed for static site'"
+  },
+  "keywords": [
+    "yanglegeyang",
+    "game",
+    "cocos-creator"
+  ],
+  "author": "",
+  "license": "MIT"
+}
